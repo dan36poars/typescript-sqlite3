@@ -10,6 +10,10 @@ Install assignment dependencies:
 $ yarn install
 ```
 
+```bash
+$ yarn install sqlite3 -D
+```
+
 ## Making the test suite pass
 
 

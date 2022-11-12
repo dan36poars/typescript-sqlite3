@@ -1,2 +1,3 @@
-node_modules/
+invoices/node_modules/
 .git/
+.gitpod.yml
